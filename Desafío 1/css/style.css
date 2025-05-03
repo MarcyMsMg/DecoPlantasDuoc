@@ -54,6 +54,11 @@ body{
     height: 200px;
 }
 
+#imagenBody{
+    
+    width: 350px;
+}
+
 .cajitas{
     padding-left: 100px;
     padding-top: 60px;
