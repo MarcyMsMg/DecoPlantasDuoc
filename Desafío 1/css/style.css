@@ -1,5 +1,5 @@
 .header-bg {
-    background-color: #EAEBE6;
+    background-color: #ebe7e6;
     width: 100%;
 }
 
@@ -50,7 +50,8 @@ body{
 }
 
 #imagenHeader{
-    width: 350px;
+    
+    height: 200px;
 }
 
 .cajitas{
